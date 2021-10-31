@@ -1,0 +1,7 @@
+.information-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin: auto;
+  width: 100%;
+  margin-bottom: 10px;
+}
